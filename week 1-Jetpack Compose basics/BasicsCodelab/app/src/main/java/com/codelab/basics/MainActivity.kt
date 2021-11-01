@@ -155,7 +155,6 @@ private fun CardContent(name: String) {
                 } else {
                     stringResource(R.string.show_more)
                 }
-
             )
         }
     }
